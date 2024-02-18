@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialogBox</string>
+    <string name="opt">Yes</string>
+    <string name="cloudy_image_str">cloudy image</string>
+    <string name="today_cloud_txt">Today Cloud</string>
+    <string name="rain_coming_txt">Rain Coming</string>
+</resources>
